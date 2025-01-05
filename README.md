@@ -1,1 +1,1 @@
-# AtliQ-Hotels-Data-Analysis-using-pyhton
+# AtliQ-Hotels-Data-Analysis-using-python
